@@ -1,0 +1,23 @@
+{
+    "name": "cylcode/tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerry",
+            "email": "502443279"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cylcode\\tools\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
